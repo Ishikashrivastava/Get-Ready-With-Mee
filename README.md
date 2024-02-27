@@ -1,4 +1,4 @@
-# GRWM
+# Get_Ready_With_Mee!! (GRWM)
  
 Welcome to "Get Ready with Me" – Your Ultimate Destination for Personal Styling!
 
